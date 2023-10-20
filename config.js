@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94764497078', 'me', true],
-  ['6281255369012', 'Ash', true], 
+  ['94779451939', 'me', true],
+  ['94779451939', 'TEDI', true], 
   [''] 
 ] //Number of owners
 
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'THE TEDI-BOT'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'TEDI┃ᴮᴼᵀ' 
+global.author = '@OKITHA' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.dygp = 'https://api.whatsapp.com/send?phone=+94779451939'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://youtube.com/@okitha2007?si=7UzeQQJ89wKzUckl'
+global.fgpyp = 'https://youtube.com/@okitha2007?si=7UzeQQJ89wKzUckl'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 
 
